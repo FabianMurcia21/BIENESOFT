@@ -22,7 +22,7 @@ const teamMembers = [
   {
     name: "Adolfo Sanchez Melo ",
     role: "Analista y Desarrollador",
-    image: "/assets/img/adolfo.jpg",
+    image: "/assets/img/adolfo.webp",
     description:
       "Organizador con habilidades de liderazgo. Mantiene al equipo enfocado y asegura la entrega puntual de los proyectos.",
     correo: "Sanchez.adolfo15@hotmail.com",
@@ -30,7 +30,7 @@ const teamMembers = [
   {
     name: "Fabian Dario Gomez Murcia",
     role: "Analista y Desarrollador",
-    image: "/assets/img/murcia.jpg",
+    image: "/assets/img/murcia.webp",
     description:
       "Creativa y detallista. Encargada de crear experiencias visuales atractivas y funcionales para nuestros usuarios.",
     correo: "Murcia21.gmz@gmail.com",
@@ -38,7 +38,7 @@ const teamMembers = [
   {
     name: "Daniel Camilo Perdomo Bonilla ",
     role: "Analista y Desarrollador",
-    image: "/assets/img/camilo.jpg",
+    image: "/assets/img/camilo.webp",
     description:
       "Apasionado por el diseño de interfaces y la experiencia de usuario. Especializada en React y CSS avanzado.",
     correo: "Danielperdomo782@gmail.com",

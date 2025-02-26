@@ -35,26 +35,26 @@ const ContactPage = () => {
           <ContactCard
             icon={<Phone className="w-6 h-6 text-blue-500" />}
             title="Teléfono"
-            content="+57 316 624 6941"
-            link="tel:+573166246941"
+            content="+57 3102023477"
+            link="tel:+573102023477"
           />
           <ContactCard
             icon={<Mail className="w-6 h-6 text-red-500" />}
             title="Correo"
-            content="bienestarsenalagranja@gmail.com"
-            link="mailto:bienestarsenalagranja@gmail.com"
+            content="bienesoft5@gmail.com"
+            link="mailto:bienesoft5@gmail.com"
             isEmail={true}
           />
           <ContactCard
             icon={<FaWhatsapp className="w-6 h-6 text-[#4AE05A]" />}
             title="WhatsApp"
-            content="+57 316 624 6941"
-            link="https://wa.me/573166246941"
+            content="+57 3001573906"
+            link="https://wa.me/573001573906"
           />
           <ContactCard
             icon={<FaMapMarkerAlt className="w-6 h-6 text-red-500" />}
             title="Dirección"
-            content="Km 2, Chicoral - Espinal, Chicoral, Tolima"
+            content="Km 5, Espinal - Ibague, Tolima"
             link="https://www.google.com/maps?q=Km+2,+Chicoral+-+Espinal,+Chicoral,+Tolima"
           />
           <ContactCard

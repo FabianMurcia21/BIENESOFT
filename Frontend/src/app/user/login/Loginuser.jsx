@@ -65,7 +65,7 @@ function LoginPage() {
               <img
                 className="w-24 m-0 flex items-center"
                 alt=""
-                src="/assets/img/bienesoft.png"
+                src="/assets/img/bienesoft.webp"
               />
             </motion.div>
           </div>

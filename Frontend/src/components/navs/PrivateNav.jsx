@@ -27,7 +27,7 @@ function PrivateNav({ children }) {
                   whileHover={{ scale: 1.1, rotate: 1 }}
                 >
                   <img
-                    src="/assets/img/logo.png"
+                    src="/assets/img/logo.webp"
                     alt="Bienesoft Logo"
                     className="w-40 h-auto"
                   />

@@ -90,7 +90,7 @@ export default function Home() {
                 </ul>
               </div>
               <div className="aspect-video bg-gray-200 rounded-lg mr-2">
-                <img src="/assets/img/portada.jpg"></img>
+                <img src="/assets/img/portada.webp"></img>
               </div>
             </div>
           </div>

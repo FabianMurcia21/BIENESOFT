@@ -15,7 +15,7 @@ function PublicNav() {
           whileHover={{ scale: 1.3, rotate: 1 }}
         >
           <img
-            src="/assets/img/logo.png"
+            src="/assets/img/logo.webp"
             alt="Bienesoft Logo"
             style={{ width: "170px", height: "auto" }}
           />
@@ -28,7 +28,7 @@ function PublicNav() {
           className="flex items-center gap-2 text-sm font-medium hover:text-primary transition-colors"
           href="/aboutUs"
         >
-          <FaListAlt/>
+          <FaListAlt className=" text-[#218EED]"/>
           ¿Quienes Somos?
         </Link>
         <Link
